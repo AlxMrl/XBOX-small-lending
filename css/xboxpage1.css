@@ -1,0 +1,111 @@
+body {
+  overflow-x: hidden;
+  font-family: "Lunasima", sans-serif;
+}
+
+.nav {
+  background: #373A3C;
+}
+.nav .container {
+  max-width: 1070px;
+}
+
+.bestval {
+  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(103, 103, 103) 50%, rgb(8, 8, 8) 100%);
+}
+.bestval .container {
+  max-width: 1070px;
+}
+.bestval .bestval-content {
+  padding-bottom: 60px;
+  padding-top: 65px;
+  text-align: center;
+}
+.bestval .bestval-content .title {
+  color: #FFF;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.bestval .bestval-content .subtitle {
+  color: #FFF;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.bestval .bestval-content .cards {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 45px;
+}
+.bestval .bestval-content .cards .card {
+  border: 1px solid #8DD83D;
+}
+.bestval .bestval-content .cards .card .card-body {
+  text-align: start;
+  color: #435766;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+.bestval .bestval-content .cards .card .card-body .card-title {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+}
+.bestval .bestval-content .cards .card .card-body .card-text {
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+.bestval .bestval-content .cards .card .card-body .btn {
+  height: 50px;
+  width: 100%;
+  padding-top: 4%;
+  background: #8DD83D;
+  border: none;
+}
+
+.design .container {
+  max-width: 1070px;
+  margin: 0 auto;
+}
+.design .container .design-content {
+  padding-top: 120px;
+}
+
+.footer {
+  background: rgb(55, 58, 60);
+}
+.footer .row {
+  font-size: 14px;
+  line-height: 38px;
+}
+.footer .row .col {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.footer .row .col .text-1 {
+  color: #8DD83D;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer .row .col .text-2 {
+  display: grid;
+  grid-template-columns: 0.7fr 1fr 1fr;
+  grid-gap: 15px;
+}
+.footer .container-2 {
+  border-top: 2px solid grey;
+  color: white;
+  margin-top: 60px;
+}
+.footer .container-2 .content {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}/*# sourceMappingURL=xboxpage1.css.map */
