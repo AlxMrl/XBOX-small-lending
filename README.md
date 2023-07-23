@@ -1,1 +1,1 @@
-# XBOX-small-lending-VAR1
+# XBOX-small-lending-VAR1 (не мусор)
